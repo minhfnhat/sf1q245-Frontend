@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks.",
+        "title": "123: Revolutionizing the Way You Work"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "123: Revolutionizing the Way You Work",
+  "subtitle": "Stay ahead with unparalleled tools designed to enhance productivity and efficiency in your daily tasks."
+}
